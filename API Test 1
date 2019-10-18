@@ -45,3 +45,5 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
   ],
   "status": "sent"
 }
+POST /v2.1/accounts/{recipientId}/bulk_send_lists /send
+ 
